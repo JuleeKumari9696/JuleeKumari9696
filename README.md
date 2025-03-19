@@ -1,28 +1,18 @@
-Hi Developers, I'm julee kumari 👋 👋
-I'm a  Web Developer, currently pursuing a (MERN) Internship at #Acciojob_Noida!
 
-💻 Tech Stack: ✔️ Frontend: HTML, CSS, JavaScript,React,Bootstrap,Tailwind. 
-
-🌟 About Me: I am a self-motivated, hardworking, and disciplined individual with a passion for coding and problem-solving.
-
-🎯 Goals: 🔹 Short-term: Secure a job in a reputed company. 
-🔹 Long-term: Grow into a leadership role where I can contribute to both my career and the organization’s success.
-### Hi Developers, I'm Nitesh Kumar 👋 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/nitesh-kumar-4760a8266/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Nitesh-yellow)](https://stackoverflow.com/users/21199121/nitesh-kumar)
-[![Website Badge](https://img.shields.io/badge/profilewebsite-Nitesh-orange)](https://887381nitesh.github.io/niteshliveprofile/)
-[![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-red)](https://64c8e57d7dd4296818eacdcc--magnificent-kelpie-cca3fd.netlify.app/)
-[![Website Badge](https://img.shields.io/badge/zomatoClone-Nitesh-yellow)](https://64c8d8ee89bb8b60d1141b92--statuesque-jelly-397619.netlify.app/)
-[![Website Badge](https://img.shields.io/badge/flipkartClone-Nitesh-blue)](https://887381nitesh.github.io/niteshdarkflip/)
+### Hi Developers, I'm Julee kumari 👋 👋
+[![Linkedin Badge]()]()
+[![Website Badge]()
+[![Website Badge]()
+[![Website Badge]()]()
+[![Website Badge]()
+[![Website Badge]()
 
 
-I'm a Full Stack Web Developer, currently pursuing a (MERN) Internship at #Acciojob_Noida!
+I'm a Frontend Developer, currently pursuing a (MERN) Internship at #Acciojob_Noida!
 
 💻 Tech Stack:
 ✔ Frontend: HTML, CSS, JavaScript,React,Bootstrap,Tailwind.
-✔ Backend: Node.js, Express.js,C#,php.
-✔ Database: MongoDb, Mysql.
-✔ Tools: PostMan, Vscode,
+
 
 🌟 About Me:
 I am a self-motivated, hardworking, and disciplined individual with a passion for coding and problem-solving.
